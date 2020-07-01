@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "723964841915",
+    "firebase_url": "https://ibmlearn-e8c7d.firebaseio.com",
+    "project_id": "ibmlearn-e8c7d",
+    "storage_bucket": "ibmlearn-e8c7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723964841915:android:05dc499568ca79bade3e9e",
+        "android_client_info": {
+          "package_name": "com.dodi.disasteralert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723964841915-1qcpiee7ev29smma6mn26059vm2apcmo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dodi.disasteralert",
+            "certificate_hash": "265083f282ec8fb03d9dc67f636145d8204f4e0c"
+          }
+        },
+        {
+          "client_id": "723964841915-mheq1itc14h0f1hhnh8f6t8e23kp0lqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4J4jwaiWR4sGTOw-TslskUI7SLrpVDxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723964841915-mheq1itc14h0f1hhnh8f6t8e23kp0lqo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723964841915:android:2a5e561ae10ec7a5de3e9e",
+        "android_client_info": {
+          "package_name": "com.dodi.quietbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723964841915-mheq1itc14h0f1hhnh8f6t8e23kp0lqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4J4jwaiWR4sGTOw-TslskUI7SLrpVDxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723964841915-mheq1itc14h0f1hhnh8f6t8e23kp0lqo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723964841915:android:76c89356078bebd2de3e9e",
+        "android_client_info": {
+          "package_name": "com.dodi.robalert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723964841915-ebp935l8o9vq3a9vo2u0ib1flou77ua3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dodi.robalert",
+            "certificate_hash": "265083f282ec8fb03d9dc67f636145d8204f4e0c"
+          }
+        },
+        {
+          "client_id": "723964841915-mheq1itc14h0f1hhnh8f6t8e23kp0lqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4J4jwaiWR4sGTOw-TslskUI7SLrpVDxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723964841915-mheq1itc14h0f1hhnh8f6t8e23kp0lqo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723964841915:android:88edcb573e647822de3e9e",
+        "android_client_info": {
+          "package_name": "com.ibm.mobilefirstplatform.clientsdk.android.push"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723964841915-mheq1itc14h0f1hhnh8f6t8e23kp0lqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4J4jwaiWR4sGTOw-TslskUI7SLrpVDxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723964841915-mheq1itc14h0f1hhnh8f6t8e23kp0lqo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Disaster Alert</string>
+    <string name="translation_label">Translation:</string>
+    <string name="translate">translate</string>
+    <string name="input_hint">enter text</string>
+    <string name="target_language">Target Language</string>
+    <string name="spanish">Spanish</string>
+    <string name="french">French</string>
+    <string name="italian">Italian</string>
+    <string name="microphone">Microphone</string>
+    <string name="play">Play</string>
+    <string name="english">English</string>
+    <string name="indonesia">Indonesia</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="RegistrationButton">Register Device</string>
+    <string name="DefaultLabel">Hello Push</string>
+    <string name="hello_world">Hello push!</string>
+    <string name="Registering">Registering for notifications</string>
+    <string name="todo">TODO</string>
+    <string name="_0">0%</string>
+    <string name="progress">Progress</string>
+    <string name="switch_to_text_message">Switch to text message</string>
+    <string name="wait_a_minute">Wait a minute</string>
+    <string name="what_s_on_your_mind">Enter your query</string>
+    <string name="menu_refresh">Refresh</string>
+    <string name="click_to_interrupt">Click to interrupt</string>
+    <string name="release_to_get_respond">Release to get respond</string>
+    <string name="swipe_to_start">Swipe to start talking</string>
+    <string name="enter_message">Enter message</string>
+    <string name="time_sample">02.00 AM</string>
+    <string name="hi_man_how_are_you">Hi man, how are you ?</string>
+    <string name="sheila_bot">Sheila Bot</string>
+    <string name="connecting">Connecting…</string>
+    <string name="cannot_get_voice">Cannot get voice, you can using type message.</string>
+    <string name="ok_i_listen_to_you">OK, I listen to you</string>
+    <string name="your_turn_i_listen">Your turn, I listen to you.</string>
+    <string name="title_visual_result">List Visual Recognition Result</string>
+    <string name="search">Search</string>
+    <string name="please_connect_with_disaster">Please connect with Disaster Monitoring on another platform.</string>
+    <string name="link_web">https://webcam-disaster-monitoring.herokuapp.com/</string>
+    <string name="title_activity_login">Sign in</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign In</string>
+    <string name="action_back_sign_in">Back to Sign In</string>
+    <string name="action_sign_up">Register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="notification_alert_is_active">Notification is Active</string>
+    <string name="forest_fires">Forest fires</string>
+    <string name="other_fires">Other fires</string>
+    <string name="rob_floods">Rob floods</string>
+    <string name="rob">Rob</string>
+    <string name="select_the_desired_object">Select the desired object</string>
+    <string name="open_this_link_on_desktop_or_laptop">Open this link on Desktop or Laptop</string>
+    <string name="logout">Logout</string>
+</resources>

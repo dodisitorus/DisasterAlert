@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.ibm.mobilefirstplatform.clientsdk.android:push-3.6.5">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-push-3.6.5.aar/062d7f97f2511942d9dce0e21c7fc5c6/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-push-3.6.5.aar/062d7f97f2511942d9dce0e21c7fc5c6/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ibm.mobilefirstplatform.clientsdk.android/push/3.6.5/ce1e367129698cf67aee6164e20ff2e53abdf177/push-3.6.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
