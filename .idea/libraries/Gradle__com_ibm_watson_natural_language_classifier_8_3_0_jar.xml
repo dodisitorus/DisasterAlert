@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.ibm.watson:natural-language-classifier:8.3.0@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ibm.watson/natural-language-classifier/8.3.0/39fa2c5064971613d8db9417bc4e500f7b51b302/natural-language-classifier-8.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ibm.watson/natural-language-classifier/8.3.0/8a53ec2df3a48a229d4db7752d7d825f567a684e/natural-language-classifier-8.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

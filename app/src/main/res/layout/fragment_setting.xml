@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:padding="16dp"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/field1"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_weight="1"
+            android:text="@string/notification_alert_is_active"
+            android:textColor="@color/profileEditTextColor"
+            android:textSize="18sp"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content" />
+
+        <Switch
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+    <FrameLayout
+        app:layout_constraintTop_toBottomOf="@+id/field1"
+        android:layout_marginTop="10dp"
+        android:id="@+id/shadowToolbar"
+        android:layout_width="match_parent"
+        android:background="@drawable/bg_color_list"
+        android:layout_height="wrap_content">
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="5dp"
+            android:background="@drawable/toolbar_dropshadow"/>
+    </FrameLayout>
+
+    <TextView
+        app:layout_constraintTop_toBottomOf="@+id/shadowToolbar"
+        android:layout_marginTop="14dp"
+        android:id="@+id/title_radio"
+        android:text="@string/select_the_desired_object"
+        android:textSize="18sp"
+        android:textColor="@color/profileEditTextColor"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <RadioGroup
+        app:layout_constraintTop_toBottomOf="@+id/title_radio"
+        android:layout_marginTop="5dp"
+        android:id="@+id/radioNeeded"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <RadioButton
+            android:id="@+id/forest_fires"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="17sp"
+            android:textColor="@color/profileEditTextColor"
+            android:text="@string/forest_fires"
+            android:checked="true" />
+
+        <RadioButton
+            android:id="@+id/other_fires"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/profileEditTextColor"
+            android:textSize="17sp"
+            android:text="@string/other_fires" />
+
+        <RadioButton
+            android:id="@+id/rob_floods"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/profileEditTextColor"
+            android:textSize="17sp"
+            android:text="@string/rob_floods" />
+
+        <RadioButton
+            android:id="@+id/rob"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/profileEditTextColor"
+            android:textSize="17sp"
+            android:text="@string/rob" />
+    </RadioGroup>
+
+    <FrameLayout
+        app:layout_constraintTop_toBottomOf="@+id/radioNeeded"
+        android:layout_marginTop="10dp"
+        android:id="@+id/shadowToolbar2"
+        android:layout_width="match_parent"
+        android:background="@drawable/bg_color_list"
+        android:layout_height="wrap_content">
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="5dp"
+            android:background="@drawable/toolbar_dropshadow"/>
+    </FrameLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
