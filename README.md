@@ -6,4 +6,4 @@ A prototype app that detects and alerts users about natural disasters based on p
 
 ☁️ Firebase for real-time database, authentication, and cloud messaging
 
-🧭 Built with Kotlin, MVVM architecture, and Jetpack components
+🧭 Built with Java, MVVM architecture, and Jetpack components
