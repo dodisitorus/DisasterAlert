@@ -1,9 +1,28 @@
-Example Android app using IBM Watson and Firebase
+# 🌍 DisasterAlert Public  
+Example Android app using **IBM Watson** and **Firebase**
 
-A prototype app that detects and alerts users about natural disasters based on public data and AI-powered analysis. It uses:
+---
 
-🧠 IBM Watson for natural language processing and disaster-related data classification
+## 🚀 About  
+A prototype app that detects and alerts users about natural disasters based on public data and AI-powered analysis.
 
-☁️ Firebase for real-time database, authentication, and cloud messaging
+---
 
-🧭 Built with Java, MVVM architecture, and Jetpack components
+## 🧠 AI & Cloud Integration  
+- **IBM Watson** for natural language processing and disaster-related data classification  
+- **Firebase** for:
+  - Real-time database  
+  - Authentication  
+  - Cloud messaging (push notifications)  
+
+---
+
+## 🔧 Tech Stack  
+- **Language**: Java  
+- **Architecture**: MVVM  
+- **UI Toolkit**: Jetpack components  
+
+---
+
+## 📄 License  
+This is an example project created for learning and experimentation with AI and cloud services.
